@@ -102,11 +102,7 @@
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
   
-  &nbsp
-  <a href="https://www.instagram.com/daniyalali,israil/?next=%2F" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a>
-  &nbsp
+ 
   <a href="https://www.linkedin.com/in/daniyal-ali-328a131b7/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
