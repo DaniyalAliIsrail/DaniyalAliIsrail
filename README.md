@@ -99,13 +99,3 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  
- 
-  <a href="https://www.linkedin.com/in/daniyal-ali-328a131b7/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
-  </a>
-</div>
-
-<img src="./assets/animated-wave.svg" />
