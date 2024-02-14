@@ -30,6 +30,7 @@
 </br>
 
 <h2></h2>
+(https://visitcount.itsvg.in/api?id=ayansheikh6600&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
