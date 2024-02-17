@@ -57,7 +57,7 @@
   <br>
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=nextjs,postgres,mysql,threejs,ts,androidstudio" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
@@ -88,8 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DaniyalAliIsrail&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
 
 
 
