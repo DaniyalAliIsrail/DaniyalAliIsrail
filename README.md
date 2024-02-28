@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniyalAliIsrail&label=Profile%20views&color=0e75b6&style=flat" alt="DaniyalAliIsrail" /></p>
-<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/Black Technology LinkedIn Banner (2).png" align="middle" alt="Banner" width="100%"/>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
